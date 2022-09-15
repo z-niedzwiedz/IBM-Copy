@@ -3,7 +3,7 @@ File transfer tool between CP/M, TOS and PC FAT-12 filesystems (requires CP/M on
 
 INSTRUKCJA OBSLUGI PROGRAMU "IBM COPY" v.2.1
 ********************************************
-autor:       ,    ,
+autor:
 Zbigniew Niedzwiedz, zam. Reja 16, 20-458 Lublin
 ************************************************
 
