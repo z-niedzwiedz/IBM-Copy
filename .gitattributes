@@ -1,0 +1,2 @@
+*.gen linguist-detectable=true
+*.gen linguist-language=code
