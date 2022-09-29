@@ -1,2 +1,2 @@
 *.gen linguist-detectable=true
-*.gen linguist-language=code
+*.gen linguist-language=z80
